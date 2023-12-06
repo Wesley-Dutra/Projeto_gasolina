@@ -1,16 +1,9 @@
 # projeto_gasolina
 
-A new Flutter project.
+Imagens do projeto:
 
-## Getting Started
+![image](https://github.com/Wesley-Dutra/Projeto_gasolina/assets/72281650/859b9374-4fc7-4b15-b208-60f8b703bfa7)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Wesley-Dutra/Projeto_gasolina/assets/72281650/bac2e7e3-35b9-4fd3-bcaf-ebceb554916c)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Wesley-Dutra/Projeto_gasolina/assets/72281650/ddd574e9-3b2d-448e-bbcf-aba1e1e81c5d)
